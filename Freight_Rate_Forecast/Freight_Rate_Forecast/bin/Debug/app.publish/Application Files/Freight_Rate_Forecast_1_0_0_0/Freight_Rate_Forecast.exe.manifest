@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Freight_Rate_Forecast.exe" version="1.0.0.0" publicKeyToken="ad85a4cf6f76719a" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Freight_Rate_Forecast" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Freight_Rate_Forecast.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Freight_Rate_Forecast.exe" size="29160">
+      <assemblyIdentity name="Freight_Rate_Forecast" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>IQFS8TniBm/L65GXuc9Q4fhEfUGbQbzOONd3xn/J/Ak=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Freight_Rate_Forecast.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=REVATHI\Chandrasekaran" issuerKeyHash="47e37cd9ec18b789dd14909ea675f4d2b8d69676" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>sNxPSqQfTBsjlGpGswPQucK6kmB3e3M1Kx2+14vRuxE=</DigestValue></Reference></SignedInfo><SignatureValue>D5mMPAlcuo0bDf5ljYEmENIuflSbyZyCHFlZw3AP8QayzFQmv+WJpCeCDeZOWSD6HcYef+fZCcurfl92fttv8byuXEVgTSJSqnOHMqqpQ8dNo0Fqj+kl2w2Hxjd6s87cOApitkSLdcIvIw8nGShUMWro9ud9bvDTvIAjO5+b09Q=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>8bg02hC8cDRnToHSE0bapTfYsYW35q7tPLwFQkmEo8QP7J72N+uj3/SvhRmXyi37hUuAtXnMlcisvkkDQJuWV5EB18mEt2ftk0Qlm7zvDsnRWipIFMw5HHWGPilfiyvs1tkGujwnaFFJmf+w2GowPw3Pskf0LpBCFa7e5fwtY/U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="11bbd18bd7be1d2b35737b776092bac2b9d003b3466a94231b4c1fa44a4fdcb0" Description="" Url=""><as:assemblyIdentity name="Freight_Rate_Forecast.exe" version="1.0.0.0" publicKeyToken="ad85a4cf6f76719a" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=REVATHI\Chandrasekaran</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>dEBFyMROaN4jfrUIW4kudeU9gGCgJWo1PFLDp/1gFE8=</DigestValue></Reference></SignedInfo><SignatureValue>yp7zKZ9CNEcSQW1W2AmFDek9f2Vnw0bBIzCTaSieZNdNlnRN9N9WyVv6tACvZT8VyqnMgqSCQb/Nd4umIgdR+4ZwXiV7L5+5mqIR9IIoA9Yc7z5rQLtMz+UKlPmqCBNj37d6uXd8WU53KeFfREtecxGxcVgg1FeQx8K2ITuf4iw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>8bg02hC8cDRnToHSE0bapTfYsYW35q7tPLwFQkmEo8QP7J72N+uj3/SvhRmXyi37hUuAtXnMlcisvkkDQJuWV5EB18mEt2ftk0Qlm7zvDsnRWipIFMw5HHWGPilfiyvs1tkGujwnaFFJmf+w2GowPw3Pskf0LpBCFa7e5fwtY/U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQVwzG47v2BI9MrorA94oxEzANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwAUgBFAFYAQQBUAEgASQBcAEMAaABhAG4AZAByAGEAcwBlAGsAYQByAGEAbjAeFw0xOTAyMDcxOTA2MzBaFw0yMDAyMDgwMTA2MzBaMDcxNTAzBgNVBAMeLABSAEUAVgBBAFQASABJAFwAQwBoAGEAbgBkAHIAYQBzAGUAawBhAHIAYQBuMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDxuDTaELxwNGdOgdITRtqlN9ixhbfmru08vAVCSYSjxA/snvY366Pf9K+FGZfKLfuFS4C1ecyVyKy+SQNAm5ZXkQHXyYS3Z+2TRCWbvO8OydFaKkgUzDkcdYY+KV+LK+zW2Qa6PCdoUUmZ/7DYajA/Dc+yR/QukEIVrt7l/C1j9QIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAHYJ+ukMlojGfit8aQW1V6xPi5j/fCX2eWIPKO4PwiI64jRuaKSKuLkWnuXDKOQnqSzxVaOf+5riXpI/JOpFXiovLvWCMCeP7GRS11yf0CF0/5Lp2tK8qE7rEvAtnXJRXfve53IvkQUlEZ1/UWTGN3hz6bPRvTbGGVSAG1afmWzs</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

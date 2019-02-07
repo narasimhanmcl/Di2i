@@ -1,0 +1,15 @@
+C:\Users\Chandrasekaran\source\repos\Freight_Rate_Forecast\Freight_Rate_Forecast\bin\Debug\Freight_Rate_Forecast.exe.config
+C:\Users\Chandrasekaran\source\repos\Freight_Rate_Forecast\Freight_Rate_Forecast\bin\Debug\Freight_Rate_Forecast.exe
+C:\Users\Chandrasekaran\source\repos\Freight_Rate_Forecast\Freight_Rate_Forecast\bin\Debug\Freight_Rate_Forecast.pdb
+C:\Users\Chandrasekaran\source\repos\Freight_Rate_Forecast\Freight_Rate_Forecast\obj\Debug\Freight_Rate_Forecast.csprojAssemblyReference.cache
+C:\Users\Chandrasekaran\source\repos\Freight_Rate_Forecast\Freight_Rate_Forecast\obj\Debug\Freight_Rate_Forecast.Properties.Resources.resources
+C:\Users\Chandrasekaran\source\repos\Freight_Rate_Forecast\Freight_Rate_Forecast\obj\Debug\Freight_Rate_Forecast.csproj.GenerateResource.cache
+C:\Users\Chandrasekaran\source\repos\Freight_Rate_Forecast\Freight_Rate_Forecast\obj\Debug\Freight_Rate_Forecast.csproj.CoreCompileInputs.cache
+C:\Users\Chandrasekaran\source\repos\Freight_Rate_Forecast\Freight_Rate_Forecast\obj\Debug\Freight_Rate_Forecast.exe
+C:\Users\Chandrasekaran\source\repos\Freight_Rate_Forecast\Freight_Rate_Forecast\obj\Debug\Freight_Rate_Forecast.pdb
+C:\Users\Chandrasekaran\source\repos\Freight_Rate_Forecast\Freight_Rate_Forecast\obj\Debug\Freight_Rate_Forecast.csproj.ResolveComReference.cache
+C:\Users\Chandrasekaran\source\repos\Freight_Rate_Forecast\Freight_Rate_Forecast\obj\Debug\Freight_Rate_Forecast.ForecaseForm.resources
+C:\Users\Chandrasekaran\source\repos\Freight_Rate_Forecast\Freight_Rate_Forecast\bin\Debug\Freight_Rate_Forecast.exe.manifest
+C:\Users\Chandrasekaran\source\repos\Freight_Rate_Forecast\Freight_Rate_Forecast\bin\Debug\Freight_Rate_Forecast.application
+C:\Users\Chandrasekaran\source\repos\Freight_Rate_Forecast\Freight_Rate_Forecast\obj\Debug\Freight_Rate_Forecast.exe.manifest
+C:\Users\Chandrasekaran\source\repos\Freight_Rate_Forecast\Freight_Rate_Forecast\obj\Debug\Freight_Rate_Forecast.application
